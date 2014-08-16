@@ -1,6 +1,6 @@
 # Spree Product Sorting
 
-Theme for Spree. **Not ready for production**
+Default product sorting for Spree. **Not ready for production**
 
 
 ## Installation
